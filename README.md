@@ -1,6 +1,6 @@
 # Artemis
  
-## play the game here: [R@C](https://road-to-complexity.web.app/)
+## play the game here: [R2C](https://road-to-complexity.web.app/)
 
 Guide:
   >Press Start to enter the game
